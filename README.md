@@ -1,2 +1,3 @@
 # css-grid-poster3
-challenge : css layout grid
+
+I tried a responsive grid-poster in CSS.
